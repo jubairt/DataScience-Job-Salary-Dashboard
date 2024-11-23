@@ -7,7 +7,7 @@ This project presents a **Data Science Salary Dashboard** built using **Tableau*
 - **Tableau** for creating the interactive dashboard.
 
 ## Dataset
-- **Cleaned Data**: [Cleaned Dataset Link](add your cleaned dataset link here)
+- **Cleaned Data**: https://github.com/jubairt/DataScience-Job-Salary-Dashboard/blob/main/DataScience%20Salaries.csv
 
 ## KPIs
 - **Average Salary by Experience Level**
@@ -16,7 +16,7 @@ This project presents a **Data Science Salary Dashboard** built using **Tableau*
 - **Total Companies by Size and Location**
 
 ## Dashboard Link
-You can view the interactive dashboard [here](add your dashboard link here).
+You can view the interactive dashboard https://public.tableau.com/views/Datasciencejobspricedashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Process
 1. The data was already cleaned and directly imported into Tableau for visualization.
@@ -24,7 +24,7 @@ You can view the interactive dashboard [here](add your dashboard link here).
 3. Dynamic maps and filters allow users to explore salary distributions across countries and job titles.
 
 ## Dashboard Image
-![Dashboard Image](add your image link here)
+https://github.com/jubairt/DataScience-Job-Salary-Dashboard/blob/main/DataScience%20Salaries%20Dashboard.png
 
 ## Project Insights
 - **Experience Level**: Senior roles dominate, constituting 46.13%, while entry-level roles make up 14.5%.
